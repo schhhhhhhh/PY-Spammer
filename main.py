@@ -5,7 +5,7 @@ import discord
 from discord.ext import commands
 
 token = os.environ['TOKEN_BOT_DISCORD']
-message = "discord.gg/dynastyrp on TOP @everyone !"
+message = "discord.gg/yourdiscord on TOP @everyone !"
 
 intents = discord.Intents.default()
 intents.message_content = True
